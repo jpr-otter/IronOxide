@@ -1,0 +1,9 @@
+[package]
+name = "pink_noise"
+version = "1.0"
+authors = ["OTTER"]
+edition = "2018"
+
+[dependencies]
+rand = "0.8.4"
+cpal = "0.13.3"
